@@ -1,7 +1,12 @@
 # the-humanity-archive
 Civilizational memory system specification (THA RC1)
 # The Humanity Archive (THA)
+
 ### Civilizational Memory System — RC1 Specification
+
+📖 DOI: https://doi.org/10.5281/zenodo.20631471
+
+---
 
 ---
 
