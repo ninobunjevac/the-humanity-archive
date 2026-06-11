@@ -1,118 +1,116 @@
-# the-humanity-archive
-Civilizational memory system specification (THA RC1)
 # The Humanity Archive (THA)
 
-### Civilizational Memory System — RC1 Specification
+### Civilizational Memory System
 
-📖 DOI: https://doi.org/10.5281/zenodo.20631471
-
----
+Preserving verified identity, family continuity, and authentic human memory across generations.
 
 ---
 
-## Abstract
+## DOI
 
-The Humanity Archive (THA) is a structured epistemic architecture designed to model, preserve, and propagate civilizational knowledge under strict constraint-based governance.
+**Zenodo Publication**
 
-THA defines a multi-layered system in which:
-
-- truth is verification-bound  
-- identity is lifecycle-dependent  
-- governance is constitutionally constrained  
-- system integrity is continuously enforced  
-
-This repository contains the RC1 canonical specification.
+https://doi.org/10.5281/zenodo.20631471
 
 ---
 
-## Core Idea
+# Start Here
 
-Civilizational knowledge is treated as a **constrained system**, not a static collection of information.
+## 📄 One Page Overview
 
-Implications:
+A one-page introduction to the Humanity Archive concept.
 
-- knowledge evolves under constraints  
-- truth is verification-dependent  
-- systems must self-regulate  
-- memory must be structurally preserved  
+➡️ [THA_One_Pager_Final.pdf](./THA_One_Pager_Final.pdf)
 
 ---
 
-## System Structure
+## 📘 Foundation Document
 
-THA is composed of layered subsystems:
+A short introduction for families, researchers, institutions, historians, and the general public.
 
-### Foundational Layer
-Ontology, meaning, constitutional constraints.
-
-### Identity Layer
-Persistence and lifecycle continuity.
-
-### Verification Layer
-Epistemic validation of system state.
-
-### Governance Layer
-Constraint-based authorization rules.
-
-### Technical Layer
-Formal structural implementation.
-
-### Defense Layer
-Integrity monitoring and anomaly detection.
-
-### Synthesis Layer
-Aggregation of validated system outputs.
+➡️ [THA_Foundation_v3.pdf](./THA_Foundation_v3.pdf)
 
 ---
 
-## Architecture Reference
+## 📚 Full RC1 Specification
 
-Full formal structure is defined in:
+The complete publication-grade specification of The Humanity Archive.
 
-👉 Appendix F — High-Level Architecture Diagram
-
----
-
-## Key Properties
-
-- constraint-driven architecture  
-- invariant-based governance  
-- non-authoritative control plane  
-- verification-first epistemology  
-- long-term structural memory  
+➡️ [THA_Final.pdf](./THA_Final.pdf)
 
 ---
 
-## Repository Layout
+# Abstract
 
-- `/chapters` → system specification  
-- `/appendices` → formal models  
-- `/validation` → stress tests  
-- `/frontmatter` → conceptual framing  
-- `/system-lock` → RC1 constraints  
+The Humanity Archive (THA) is a civilizational memory infrastructure designed to preserve identity, verification, governance, and intergenerational continuity through a constraint-driven epistemic framework.
+
+The project combines:
+
+- Verified identity
+- Verified family relationships
+- Long-term memory preservation
+- Constitutional governance
+- Verification-based trust systems
+- Structural continuity across generations
 
 ---
 
-## Status
+# Core Principles
+
+- Human Dignity
+- Truth and Authenticity
+- Family and Biological Continuity
+- Ownership and Control
+- Privacy and Protection
+- Long-Term Responsibility
+- Accessibility and Fairness
+- Independence and Trust
+- Intergenerational Responsibility
+
+---
+
+# Repository Contents
+
+| Document | Description |
+|-----------|-------------|
+| THA_One_Pager_Final.pdf | One-page overview of the concept |
+| THA_Foundation_v3.pdf | Public introduction to THA |
+| THA_Final.pdf | Complete RC1 specification |
+
+---
+
+# Repository Status
 
 **RC1 — Release Candidate 1**
 
-This is a stable architectural snapshot.
-
-No structural expansion is permitted without formal revision protocol.
+This repository contains the canonical RC1 release of The Humanity Archive.
 
 ---
 
-## Entry Point
+# Citation
 
-Start here:
+Bunjevac, N. (2026).
 
-- `frontmatter/system-summary-diagram.tex`
-- `chapters/vision-philosophy.tex`
+**The Humanity Archive (THA): Civilizational Memory System Specification.**
+
+Zenodo.
+
+DOI: https://doi.org/10.5281/zenodo.20631471
 
 ---
 
-## License
+# External Resources
 
-Conceptual research system.  
-All rights reserved unless explicitly stated.
+### Zenodo Archive
+
+https://zenodo.org/records/20631471
+
+### GitHub Repository
+
+https://github.com/ninobunjevac/the-humanity-archive
+
+---
+
+# License
+
+See repository license for details.
